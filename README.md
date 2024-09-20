@@ -14,3 +14,6 @@ Examen
 
 ##Installation de tox
 ![image](https://github.com/user-attachments/assets/7e13ad73-8005-401b-ad63-9081269b6ce4)
+
+## PYTEST
+![image](https://github.com/user-attachments/assets/4c304e4e-7604-48bc-b108-9ecd2fff7272)
