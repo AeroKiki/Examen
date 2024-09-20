@@ -10,3 +10,4 @@ Examen
 # Set up and Dockerrize the FastAPI Application
 ![image](https://github.com/user-attachments/assets/7536ac4b-004e-418c-beac-c0302b102424)
 ![image](https://github.com/user-attachments/assets/ae2d6a4e-3065-4246-9011-373242cb4b7e)
+![image](https://github.com/user-attachments/assets/d9b0c03a-fc60-4e8d-8992-843b95c21b73)
