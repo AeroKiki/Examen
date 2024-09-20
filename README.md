@@ -17,3 +17,6 @@ Examen
 
 ## PYTEST
 ![image](https://github.com/user-attachments/assets/4c304e4e-7604-48bc-b108-9ecd2fff7272)
+
+![image](https://github.com/user-attachments/assets/67e1f976-30d1-4e7f-a24d-a40d300618bc)
+
